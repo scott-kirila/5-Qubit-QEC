@@ -9,3 +9,7 @@ The notebook derives everything from first principles: the stabilizer group, log
 ## Usage
 
 Open `513qec_code.ipynb` and run all cells. Dependencies are installed in the first cell.
+
+## Relevant Papers
+- D. Gottesman, "Stabilizer Codes and Quantum Error Correction", [[arXiv:quant-ph/9705052]](https://arxiv.org/abs/quant-ph/9705052)
+- R. Laflamme, C. Miquel, J.P. Paz, W.H. Zurek, "Perfect Quantum Error Correction Code", [[arXiv:quant-ph/9602019]](https://arxiv.org/abs/quant-ph/9602019)
