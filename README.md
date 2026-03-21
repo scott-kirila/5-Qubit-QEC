@@ -13,3 +13,6 @@ Open `513qec_code.ipynb` and run all cells. Dependencies are installed in the fi
 ## Relevant Papers
 - D. Gottesman, "Stabilizer Codes and Quantum Error Correction", [[arXiv:quant-ph/9705052]](https://arxiv.org/abs/quant-ph/9705052)
 - R. Laflamme, C. Miquel, J.P. Paz, W.H. Zurek, "Perfect Quantum Error Correction Code", [[arXiv:quant-ph/9602019]](https://arxiv.org/abs/quant-ph/9602019)
+
+## Links
+- "Five-qubit error correcting code", [[Wikipedia]](https://en.wikipedia.org/wiki/Five-qubit_error_correcting_code)
